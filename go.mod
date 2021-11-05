@@ -1,3 +1,3 @@
-module github.com/signaux-faibles/libinpirncs/v0.0.1
+module github.com/signaux-faibles/libinpirncs/v0
 
 go 1.16
